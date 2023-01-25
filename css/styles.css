@@ -23,17 +23,20 @@ body{
   width: 42px;
   height: 42px;
   margin-right: 20px;
+   margin-bottom: 10px;
 }
 
 .zalo{
   width: 42px;
   height: 42px;
   margin-right: 20px;
+   margin-bottom: 10px;
 }
 
 .whatsapp{
   width: 42px;
   height: 42px;
+  padding-bottom: 5px;
 }
 
 .sticky-title{
